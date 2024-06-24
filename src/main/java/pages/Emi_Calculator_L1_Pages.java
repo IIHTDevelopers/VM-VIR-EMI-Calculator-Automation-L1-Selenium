@@ -38,7 +38,7 @@ public class Emi_Calculator_L1_Pages extends StartupPage{
 	 * @author : Yaksha
 	 */
 	public boolean mouseHoverOnPersonalFinanceAndClickOnTools() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 	
@@ -50,55 +50,55 @@ public class Emi_Calculator_L1_Pages extends StartupPage{
 	 * @author : Yaksha
 	 */
 	public boolean clickonHomeLoanEMICalculator() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 	
 	/**@Test3
 	 * about this method entertheLoadAmountAs3000000() 
-	 * @param : Map<String, String>
+	 * @param : get the data from Map<String, String> expectedData using field "LoanAmount"
 	 * @description : clear the data in the loan Amount TextField and put the data in loanAmountTextField
 	 * @return : boolean
 	 * @author : Yaksha
 	 */
 	public String entertheLoadAmountAs3000000(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
 	/**@Test4
 	 * about this method enterTheLoadPeriodAs20() 
-	 * @param : Map<String, String>
+	 * @param : get the data from Map<String, String> expectedData using field "LoanPeriod"
 	 * @description : clear the data in the Load Period TextField enter The Load Period As 20
 	 * @return : String
 	 * @author : Yaksha
 	 */
 	public String enterTheLoanPeriodAs20(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
 	/**@Test5
 	 * about this method enterInterestRateAs10_5() 
-	 * @param : Map<String, String>
+	 * @param : get the data from Map<String, String> expectedData using field "interestRate"
 	 * @description : clear the data in the interestRateTextField enter The Interest Rate As 10.5
 	 * @return : boolean
 	 * @author : Yaksha
 	 */
 	public String enterInterestRateAs10_5(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
 	/**@Test6
 	 * about this method enterUpfrontChargesAs10000() 
-	 * @param : null
+	 * @param : get the data from Map<String, String> expectedData using field "upfrontCharges"
 	 * @description : clear the data in the upfront Charges TextField and enter Up front Charges As 10000
 	 * @return : boolean
 	 * @author : Yaksha
 	 */
 	public String enterUpfrontChargesAs10000(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
@@ -110,7 +110,7 @@ public class Emi_Calculator_L1_Pages extends StartupPage{
 	 * @author : Yaksha
 	 */
 	public boolean clickOnSubmitButton() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 	
@@ -134,7 +134,7 @@ public class Emi_Calculator_L1_Pages extends StartupPage{
 	 * @author : Yaksha
 	 */
 	public boolean printEmiPaymentInterestPaymentPrincipalPaymentOf7thYear() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 	
@@ -146,7 +146,7 @@ public class Emi_Calculator_L1_Pages extends StartupPage{
 	 * @author : Yaksha
 	 */
 	public boolean printOutstandingPrincipalAtEndOfYearValueFor5thYearIntheTable() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 }
