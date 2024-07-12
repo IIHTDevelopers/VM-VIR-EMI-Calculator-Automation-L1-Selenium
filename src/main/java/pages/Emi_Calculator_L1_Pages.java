@@ -7,21 +7,7 @@ import org.openqa.selenium.WebDriver;
 
 public class Emi_Calculator_L1_Pages extends StartupPage{
 
-	By personalFinancepage=By.xpath("");
-	By toolsButton=By.xpath("");
-	By homeLoanEmiCalculator=By.xpath("");
-	By loanAmountTextField=By.xpath("");
-	By loanPeriodTextField=By.xpath("");
-    By interestRateTextField=By.id("");
-    By upfrontChargesTextField=By.id("");
-    By submitButton=By.xpath("");
-    By totalPaymentReadOnlyField=By.id("");
-    By emiReadOnlyField=By.id("");
-    By emiPaymentInTheYear=By.xpath("");
-    By interestPaymentInTheYear=By.xpath("");
-    By principlePaymentInTheYear=By.xpath("");
-    By OutstandingPrincipalAtEndOfYear=By.xpath("");
-
+	// please write all locators here
 
 	String pageName = this.getClass().getSimpleName();
 
